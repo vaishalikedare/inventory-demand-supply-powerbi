@@ -60,4 +60,4 @@ The data is a sample/practice dataset of 20 consumer electronics products (e.g. 
 Download `powerbi/Inventory_Supply_Report.pbix` and open it in Power BI Desktop (free). To rebuild the data step, import the CSV files into SQL Server and run `sql/data_preparation.sql`.
 
 ---
-**Author:** Vaishali Kedare · [LinkedIn]([https://ie.linkedin.com/in/vaishalikedare](https://www.linkedin.com/in/vaishali-kedare-8a8b67215))
+**Author:** Vaishali Kedare · [LinkedIn](https://www.linkedin.com/in/vaishali-kedare-8a8b67215) · [GitHub](https://github.com/vaishalikedare)
